@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1651438049 source:c:\users\hello\desktop\w\c++\matcher\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+
+1651598458 source:c:\users\hello\desktop\matcher\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+
